@@ -1,3 +1,8 @@
 Testing it
+<<<<<<< HEAD
 hello my name is Amaranathreddy
 git 
+=======
+hello my name is amar
+i'm editing this file 
+>>>>>>> 04205f08a5f3be33e4fbd26ef3a64dc8fca7c374
